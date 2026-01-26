@@ -10,7 +10,7 @@ Subject: DBMS Lab
 Date of Performance: 13/01/2026
 
 --------------------------------------------------------------------------------------------------------------------------------------------
--> Aim of the Session
+-> Aim of the Session :-
 To design and implement a sample database system using DDL, DML, and DCL commands for managing departments, employees, and projects, 
 and to apply role-based access control for secure data handling.
 --------------------------------------------------------------------------------------------------------------------------------------------
