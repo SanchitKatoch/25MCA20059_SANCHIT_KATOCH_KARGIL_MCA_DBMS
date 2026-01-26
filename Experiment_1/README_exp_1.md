@@ -1,5 +1,5 @@
 Design and Implementation of Sample Database System using DDL, DML and DCL
---------------------------------------------------------------------------------------------------------------------------------------------
+
 -> Student Details
 Name: SANCHIT KATOCH
 UID: 25MCA20059
@@ -9,11 +9,11 @@ Section/Group: 1/A
 Subject: DBMS Lab
 Date of Performance: 13/01/2026
 
---------------------------------------------------------------------------------------------------------------------------------------------
+
 -> Aim of the Session :-
 To design and implement a sample database system using DDL, DML, and DCL commands for managing departments, employees, and projects, 
 and to apply role-based access control for secure data handling.
---------------------------------------------------------------------------------------------------------------------------------------------
+
 -> Objective of the Session
 To understand the use of DDL commands to create and modify database structures.
 To perform DML operations such as INSERT, UPDATE, DELETE, and SELECT.
@@ -21,7 +21,7 @@ To implement relationships using primary and foreign keys.
 To apply DCL commands to manage roles and privileges.
 To analyze input and output of SQL queries in a real database environment.
 
---------------------------------------------------------------------------------------------------------------------------------------------
+
 -> Practical / Experiment Steps
 Design the database schema for Department, Employee, and Project tables.
 Create tables using appropriate constraints.
@@ -30,7 +30,7 @@ Perform update and delete operations.
 Retrieve data using SELECT queries.
 Create a role and grant and revoke privileges.
 Alter and drop database objects.
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 -> Database Design
 The database is designed to manage Departments, Employees, and Projects within an organization.
@@ -44,7 +44,7 @@ FOREIGN KEY – to maintain relationships between tables
 NOT NULL – to avoid missing important values
 UNIQUE – to prevent duplicate entries
 
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 STEP 1 : TABLE CREATION - DDL COMMANDS.
 
@@ -71,7 +71,7 @@ deptm_id INT,
 CONSTRAINT fk_project_dpt FOREIGN KEY (deptm_id) REFERENCES
 Department(deptm_id)
 );
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 STEP 2 : DATA MANIPULATION - DML COMMANDS
 
