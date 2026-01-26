@@ -10,11 +10,11 @@ Subject: DBMS Lab
 Date of Performance: 13/01/2026
 
 
--> Aim of the Session :-
+1. Aim of the Session :-
 To design and implement a sample database system using DDL, DML, and DCL commands for managing departments, employees, and projects, 
 and to apply role-based access control for secure data handling.
 
--> Objective of the Session
+2. Objective of the Session
 To understand the use of DDL commands to create and modify database structures.
 To perform DML operations such as INSERT, UPDATE, DELETE, and SELECT.
 To implement relationships using primary and foreign keys.
@@ -22,7 +22,7 @@ To apply DCL commands to manage roles and privileges.
 To analyze input and output of SQL queries in a real database environment.
 
 
--> Practical / Experiment Steps
+3. Practical / Experiment Steps
 Design the database schema for Department, Employee, and Project tables.
 Create tables using appropriate constraints.
 Insert sample records into tables.
@@ -32,7 +32,7 @@ Create a role and grant and revoke privileges.
 Alter and drop database objects.
 
 
--> Database Design
+4. Database Design
 The database is designed to manage Departments, Employees, and Projects within an organization.
 Tables
 Department
@@ -82,3 +82,18 @@ INSERT INTO Department VALUES
 (3, 'IT'),
 (4, 'SALES');
 ![img alt](https://github.com/SanchitKatoch/25MCA20059_SANCHIT_KATOCH_KARGIL_MCA_DBMS/blob/2caf98d59273f89c81051de4ef1cf591eacd6c2b/Experiment_1/Screenshot%20(254).png) 
+
+2. INSERT INTO Employee VALUES
+(101, 'SANCHIT KATOCH', 50000, 2),
+(102, 'ROSHAN K SINGH', 45000, 1),
+(103, 'Anindita', 42000, 3),
+(104, 'Ankush', 43000, 4);
+![img alt](https://github.com/SanchitKatoch/25MCA20059_SANCHIT_KATOCH_KARGIL_MCA_DBMS/blob/7fdde850dabdcb40818d825308b604507000e1af/Experiment_1/Screenshot%20(257).png)
+
+3. INSERT INTO PROJECT
+INSERT INTO Project VALUES
+(201, 'Payroll System', 2),
+(202, 'Web Application', 2),
+(203, 'Cyber Security',1);
+![img alt](https://github.com/SanchitKatoch/25MCA20059_SANCHIT_KATOCH_KARGIL_MCA_DBMS/blob/1472c87f5238eeebc1e2bdfbb30bd7801c63d3ee/Experiment_1/Screenshot%20(255).png)
+
