@@ -105,10 +105,10 @@ The system manages three core entities:
 ## Output Summary
 
 * Department Table:![Create tables](Screenshot/create_tables.png)
-* Employee Table:
-* Project Table:
-* Current User:
-* Read-only Access:
+* Employee Table:![Create tables](Screenshot/create_tables.png)
+* Project Table:![Create tables](Screenshot/create_tables.png)
+* Current User:![Create tables](Screenshot/current_user.png)
+* Read-only Access:![Create tables](Screenshot/grant_revoke.png)
 
 ---
 
