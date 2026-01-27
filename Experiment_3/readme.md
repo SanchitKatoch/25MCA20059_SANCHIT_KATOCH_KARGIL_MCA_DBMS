@@ -238,7 +238,7 @@ Students were classified into grades correctly based on their marks.
 ### Step 5: Priority-Based Sorting Using CASE
 Schema records were sorted according to violation severity using custom CASE-based ordering.
 
-![Step 5 Output](Screenshots/step5_ll.png)
+![Step 5 Output](Screenshots/step5.png)
 
 ---
 
