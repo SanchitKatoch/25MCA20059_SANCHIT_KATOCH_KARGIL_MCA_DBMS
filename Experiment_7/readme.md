@@ -5,8 +5,8 @@
 
 ## Student Details
 
-- **Student Name:** Roshan Kumar Singh  
-- **UID:** 25MCA20067  
+- **Student Name:** Sanchit Katoch 
+- **UID:** 25MCA20059  
 - **Branch:** MCA (GEN)  
 - **Section/Group:** 25MCA-1_A  
 - **Semester:** 2nd  
